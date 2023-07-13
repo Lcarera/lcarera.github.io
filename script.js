@@ -13,7 +13,7 @@ if (data.valorHoraVirtual) {
   valorHoraVirtualInput.value = data.valorHoraVirtual;
 }
 
-if (data.valorHoraPrensecial) {
+if (data.valorHoraPresencial) {
   valorHoraPresencialInput.value = data.valorHoraPresencial;
 }
 
